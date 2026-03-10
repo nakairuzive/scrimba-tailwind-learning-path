@@ -9,3 +9,10 @@ This repository contains all the projects and challenges I completed while worki
 |Project  |Description  |
 |:---------|-------------|
 |Pomodoro App|A simple mock-up of a pomodoro timer in both mobile and desktop layouts |
+|Testimonials Section|A simple mock-up of paw-testimonials from cat owners, in both mobile and desktop layouts |
+
+
+
+##
+_If you ever forget how to centre an element in the middle of the screen:_     
+class="flex items-centre justify-centre h-screen"
