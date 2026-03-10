@@ -7,4 +7,5 @@ This repository contains all the projects and challenges I completed while worki
 
 ## Projects
 |Project  |Description  |
-|---------|-------------|
+|:---------|-------------|
+|Pomodoro App|A simple mock-up of a pomodoro timer in both mobile and desktop layouts |
