@@ -8,19 +8,19 @@
 </head>
 <body class="bg-orange-200 m-4">
     <main class="flex flex-col gap-4">
-            <h1 class="text-6xl font-bold font-serif">Leaf &amp; Brew Box</h1>
-            <h2 class="text-lg font-bold">Preferences</h2>
+            <h1 class="text-6xl text-amber-900 font-bold font-serif">Leaf &amp; Brew Box</h1>
+            <h2 class="text-lg text-amber-800 font-bold">Preferences</h2>
             
             <form class="bg-white flex flex-col gap-4 relative">
                 
                 <!-- SUBSCRIPTION -->
                 <fieldset class="p-2 flex flex-col gap-4 sm:flex-row sm:grid sm:grid-cols-2 ">
-                    <legend class="text-lg font-semibold">Subscription</legend>
+                    <legend class="text-lg text-amber-700 font-semibold">Subscription</legend>
                     
                     <!-- SUBSCRIPTION TIER -->
                     <section class="flex flex-col ">
                         <label class="font-semibold">Subscription Tier</label>
-                        <select class="p-1 border-2 border-amber-700">
+                        <select class="p-1 border-2 border-amber-600">
                             <option>Basic (1 tea per month)</option>
                             <option>Standard (3 teas per month)</option>
                             <option>Deluxe (5 teas per month)</option>
@@ -68,50 +68,50 @@
                     <!-- DIETARY RESTRICTIONS -->
                     <section class="flex flex-col sm:order-2">
                         <label class="font-semibold" for="delivery_instructions">Dietary Restrictions</label>
-                        <textarea class="p-1 border-2 border-amber-700 focus:bg-yellow-50" id="delivery_instructions"></textarea>
+                        <textarea class="p-1 border-2 border-amber-600 focus:bg-yellow-50" id="delivery_instructions"></textarea>
                     </section>
                     
                 </fieldset>
                 
                 <!-- CUSTOMER DETAILS -->
                 <fieldset class="p-2 flex flex-col gap-4 relative sm:grid sm:grid-cols-2">
-                    <legend class="text-lg font-semibold">Details</legend>
+                    <legend class="text-lg text-amber-700 font-semibold">Details</legend>
                     
                     <!-- NAME -->
                     <section class="flex flex-col">
                         <label class="font-semibold">Full Name</label>
-                        <input class="p-1 border-2 border-amber-700 focus:bg-yellow-50" type="text" value="Earl Greyson"/>
+                        <input class="p-1 border-2 border-amber-600 focus:bg-yellow-50" type="text" value="Earl Greyson"/>
                     </section>
                     
                     <!-- EMAIL -->
                     <section class="flex flex-col">
                         <label class="font-semibold">Email</label>
-                        <input class="p-1 border-2 border-amber-700 focus:bg-yellow-50" type="email" value="earlgreyson@tealovers.com"/>
+                        <input class="p-1 border-2 border-amber-600 focus:bg-yellow-50" type="email" value="earlgreyson@tealovers.com"/>
                     </section>
                     
                     <!-- DELIVERY -->
                     <section>
                         <h3 class="font-semibold">Delivery Address</h3>
-                        <section class="p-2 border-2 border-amber-700 rounded-lg hover:bg-yellow-50">
+                        <section class="p-2 border-2 border-amber-600 rounded-lg hover:bg-yellow-50">
                             <p>12 Brewster Lane</p>
                             <p>Steepville</p>
                             <p>TE 67894</p>
-                            <a class="text-amber-950 underline decoration-1 hover:cursor-pointer" href="#">Change address</a>
+                            <a class="text-amber-700 underline decoration-1 hover:cursor-pointer" href="#">Change address</a>
                         </section>
                     </section>
                     
                     <!-- PAYMENT -->
                     <section class="">
                         <h3 class="font-semibold">Payment Method</h3>
-                        <section class="p-2 border-2 border-amber-700 rounded-lg hover:bg-yellow-50">
+                        <section class="p-2 border-2 border-amber-600 rounded-lg hover:bg-yellow-50">
                             <section class="p-1 flex justify-between"> 
                                 <p>....8523</p>
                                 <section class="flex gap-2">
-                                    <img src="img/logo_visa.png" alt="visa"/>
-                                    <img src="img/logo_mastercard.png" alt="mastercard"/>
+                                  <img class="w-6" src="img/logo_visa.png" alt="visa"/>
+                                  <img class="w-6" src="img/logo_mastercard.png" alt="mastercard"/>
                                 </section>
                             </section>
-                            <a class="text-amber-950 underline decoration-1 hover:cursor-pointer" href="#">Change payment method</a>
+                            <a class="text-amber-700 underline decoration-1 hover:cursor-pointer" href="#">Change payment method</a>
                         </section>
                     </section>
                     
@@ -120,7 +120,7 @@
                 </fieldset>
                 
                 <!-- SAVE BUTTON -->
-                <input class="font-bold text-white text-lg bg-amber-800 m-4 p-3 rounded-md  hover:cursor-pointer hover:bg-amber-950 sm:mt-auto " type="submit" value="Save Preferences"/>
+                <input class="font-bold text-white text-lg bg-amber-800 m-4 p-3 rounded-md  hover:cursor-pointer hover:bg-amber-900 sm:mt-auto " type="submit" value="Save Preferences"/>
                 
                 <!-- FORM ICON -->
                 <svg class="fill-amber-950 absolute -top-14 -right-0" xmlns="http://www.w3.org/2000/svg" height="100px" viewBox="0 -960 960 960" width="100px"><path d="M160-120v-80h640v80H160Zm560-520h80v-120h-80v120ZM320-280q-66 0-113-47t-47-113v-400h200v96l-72 58q-2 2-8 16v170q0 8 6 14t14 6h160q8 0 14-6t6-14v-170q0-2-8-16l-72-58v-96h400q33 0 56.5 23.5T880-760v120q0 33-23.5 56.5T800-560h-80v120q0 66-47 113t-113 47H320Z"/></svg>
