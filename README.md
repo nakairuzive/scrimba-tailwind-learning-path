@@ -14,6 +14,7 @@ This repository contains all the projects and challenges I completed while worki
 |Testimonials Section|A simple mock-up of paw-testimonials from cat owners|
 |Pricing Page|A pricing page that advertises three subscription tiers|
 |Preferences Form|A simple tea ordering form with delivery & payment options|
+|404 Error Page|An example of what would be displayed to the user in the case of a 404 error|
 
 
 
