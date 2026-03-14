@@ -16,6 +16,8 @@ This repository contains all the projects and challenges I completed while worki
 |Preferences Form|A simple tea ordering form with delivery & payment options|
 |404 Error Page|An example of what would be displayed to the user in the case of a 404 error|
 
+## My Certificate
+[embed].pdf[/embed]
 
 
 ##
