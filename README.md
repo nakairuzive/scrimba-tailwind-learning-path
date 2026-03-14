@@ -17,7 +17,7 @@ This repository contains all the projects and challenges I completed while worki
 |404 Error Page|An example of what would be displayed to the user in the case of a 404 error|
 
 ## My Certificate
-[✮ Click here to view my certificate as a PDF]()
+[✮ Click here to view my certificate as a PDF](https://github.com/nakairuzive/scrimba-tailwind-learning-path/blob/3f97d6ae596ed3bffe772d3d0140508c20859931/Nakai%20Ruzive%20Scrimba%20Learn%20Tailwind%20CSS%20Certificate%20of%20Completion%20.pdf)
 
 
 ##
