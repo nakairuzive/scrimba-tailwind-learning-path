@@ -6,7 +6,7 @@ A comprehensive collection of projects completed during the Scrimba [Learn Tailw
 This repository contains all the projects and challenges I completed while working through Scrimba's Learn Tailwind CSS course. Each challenge/project demonstrates different skills and concepts essential for modern development.
 
 ## Projects
-**All the designs have both mobile and desktop layouts
+✮ All the designs have both mobile and desktop layouts
   
 |Project  |Description  |
 |:---------|-------------|
@@ -17,7 +17,7 @@ This repository contains all the projects and challenges I completed while worki
 |404 Error Page|An example of what would be displayed to the user in the case of a 404 error|
 
 ## My Certificate
-[embed].pdf[/embed]
+[✮ Click here to view my certificate as a PDF]()
 
 
 ##
